@@ -7,4 +7,5 @@ console.log(lowerCase(input));
 console.log(input.toUpperCase());
 console.log(input.split(" "));
 console.log(input.toLowerCase());
+console.log(input.toUpperCase());
 
