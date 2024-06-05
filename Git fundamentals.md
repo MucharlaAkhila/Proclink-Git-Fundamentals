@@ -46,3 +46,7 @@ Git is a Distributed System
 > VIM
 
 - Verb + Number + Movement
+
+## Stash
+
+used for storing the code temporarily which is incomplete (since we cannot commit code bcoz it is incomplete , we will temporarily store in stash)
